@@ -7,7 +7,7 @@ Online store for classic and elegant fashion, for men and women.
 
 ## About
 
-L'Élégance is a small e-commerce frontend made with React and Redux Toolkit. It sells shirts, trousers, jeans, sweaters, shoes and accessories (bags, watches, caps).
+L'Élégance is a small e-commerce frontend made with React and Redux Toolkit. It sells classical cloths ,shoes and accessories (bags, watches..).
 
 You can browse the products, search, filter by category, add things to the cart, change quantities, remove items and see the total price in DA. The page update everytime the cart change.
 
