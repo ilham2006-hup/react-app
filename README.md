@@ -92,7 +92,7 @@ state.cart = {
 You need Node.js and npm.
 
 ```bash
-git clone [your-repository-link]
+git clone https://github.com/ilham2006-hup/react-app
 cd ilham-store
 npm install
 npm run dev
