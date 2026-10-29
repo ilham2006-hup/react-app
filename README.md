@@ -2,7 +2,7 @@
 
 Online store for classic and elegant fashion, for men and women.
 
-**Student:** [Your full name]
+**Student:** FERRAT Ilham       ss2
 **Module:** ENSTA - WAMD - TD/TP 2 (React + Redux)
 
 ## About
